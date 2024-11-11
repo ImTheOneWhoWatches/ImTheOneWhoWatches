@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImTheOneWhoWatches
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning python and c++
+- 🌱 I’m currently learning python and c#
 - 💞️ I’m looking to collaborate on, ss scripts
 - 📫 How to reach me, discord
 - ⚡ Fun fact: I am not a robot
